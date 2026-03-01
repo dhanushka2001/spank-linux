@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2026 Dhanushka Jayagoda
+Copyright (c) 2026 Dhanushka Jayagoda (C++ rewrite for Linux)
+Copyright (c) 2026 Tai Groot (Go rewrite)
+Copyright (c) 2026 olvvier (original Python implementation)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
