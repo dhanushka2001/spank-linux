@@ -1,3 +1,7 @@
+> [!WARNING]
+> # :no_entry: **DEPRECATED** :no_entry:
+> Active at https://github.com/dhanushka2001/spank
+
 # spank-linux
 
 Slap your Linux laptop, it yells back.
